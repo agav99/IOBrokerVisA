@@ -13,7 +13,7 @@
   "homepage": "https://github.com/iobroker/iobroker.vis",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agav99/ioBroker.vis.git"
+    "url": "git+https://github.com/agav99/IOBrokerVisA.git"
   },
   "keywords": [
     "iobroker",
